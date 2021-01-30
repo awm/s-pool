@@ -10,11 +10,11 @@ _TBD_
 
 S-Pool is built as a static or shared library which may then be linked into your own application.
 
-## Dependencies
+### Dependencies
 
 _TBD_
 
-## Instructions
+### Instructions
 
 The basic steps to build for the current host platform are as follows.  For more detailed
 instructions, see the _[full documentation]_.
