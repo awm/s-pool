@@ -1,0 +1,21 @@
+#
+# @file      .readthedocs.yml
+# @copyright 2021 Andrew MacIsaac
+#
+# @remarks
+#   SPDX-License-Identifier: MPL-2.0
+#
+# @brief     Read the Docs configuration file.
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details.
+#
+
+# Required
+version: 2
+
+# Build documentation in the documentation/ directory with Sphinx
+sphinx:
+    configuration:   documentation/conf.py
+
+# Optionally build your docs in additional formats such as PDF
+formats:
+    - pdf
