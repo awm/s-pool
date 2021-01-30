@@ -1,11 +1,29 @@
-CMakeLists.txt.user
+#
+# @file      .gitignore
+# @copyright 2021 Andrew MacIsaac
+#
+# @remarks
+#   SPDX-License-Identifier: MPL-2.0
+#
+# @brief     File patterns to exclude from version control.
+#
+
+# Editor files
+.vscode/
+
+# Sphinx files
+_build/
+
+# CMake files
 CMakeCache.txt
 CMakeFiles
+CMakeLists.txt.user
 CMakeScripts
-Testing
-Makefile
-cmake_install.cmake
-install_manifest.txt
-compile_commands.json
 CTestTestfile.cmake
+Makefile
+Testing
 _deps
+build/
+cmake_install.cmake
+compile_commands.json
+install_manifest.txt
