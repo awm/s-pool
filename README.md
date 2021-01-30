@@ -2,6 +2,8 @@
 
 _A shared memory, pool-based allocator with features for zero-copy buffer manipulation._
 
+[![Documentation Status](https://readthedocs.org/projects/s-pool/badge/?version=latest)](https://s-pool.readthedocs.io/en/latest/?badge=latest)
+
 ## Features
 
 _TBD_
